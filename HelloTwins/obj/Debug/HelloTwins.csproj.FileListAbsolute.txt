@@ -1,0 +1,6 @@
+C:\Users\Standard\OneDrive\Source\Projects\Twins\HelloTwins\bin\Debug\HelloTwins.exe.config
+C:\Users\Standard\OneDrive\Source\Projects\Twins\HelloTwins\bin\Debug\HelloTwins.exe
+C:\Users\Standard\OneDrive\Source\Projects\Twins\HelloTwins\bin\Debug\HelloTwins.pdb
+C:\Users\Standard\OneDrive\Source\Projects\Twins\HelloTwins\obj\Debug\HelloTwins.csprojResolveAssemblyReference.cache
+C:\Users\Standard\OneDrive\Source\Projects\Twins\HelloTwins\obj\Debug\HelloTwins.exe
+C:\Users\Standard\OneDrive\Source\Projects\Twins\HelloTwins\obj\Debug\HelloTwins.pdb
